@@ -1,7 +1,7 @@
 # news-img-22
 
-Sum up Sunday 22 November 2026's world news in one image for [make.fun](https://make.fun).
+Sum up 22 November's world news in one image for make.fun.
 
-[![make.fun](https://make.fun/api/competitions/news-image-20261122/badge.svg)](https://make.fun/c/news-image-20261122)
-[![status](https://make.fun/api/competitions/news-image-20261122/status-badge.svg)](https://make.fun/c/news-image-20261122)
-[![leaderboard](https://make.fun/api/competitions/news-image-20261122/leaderboard-badge.svg)](https://make.fun/c/news-image-20261122)
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/tieru9236-create/news-img-22/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/tieru9236-create/news-img-22/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
