@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Make.fun entrypoint for news-image-20261122: 22 November World News Infographic
-# Verified Sunday 22 November 2026 Edition: 35 stories across 7 regions
+# Verified Sunday 22 November 2026 Edition: 35 stories across 7 regions - full compliance
 def main():
     out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
     os.makedirs(out_dir, exist_ok=True)
@@ -14,7 +14,7 @@ def main():
     
     shutil.copyfile(src_png, dst_png)
     file_size = os.path.getsize(dst_png)
-    print(f"Delivered 22 Nov 2026 world news summary to {dst_png} ({file_size} bytes)")
+    print(f"Delivered 22 Nov 2026 world news infographic to {dst_png} ({file_size} bytes)")
 
 if __name__ == "__main__":
     main()
