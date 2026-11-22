@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Make.fun entrypoint for news-image-20261122: 22 November World News Infographic
-# Verified Sunday 22 November 2026 Edition: 35 stories across 7 regions - full compliance
+# Verified Sunday 22 November 2026 Edition: 35 stories across 6 regions - COP31 overtime, Ukraine barrage, Bahrain radar
 def main():
     out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
     os.makedirs(out_dir, exist_ok=True)
